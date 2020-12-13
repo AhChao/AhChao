@@ -1,4 +1,4 @@
-![Cat gaze at](./img/catgaze.png)
+![Cat gaze at](https://github.com/AhChao/AhChao/blob/master/Img/catgaze.png)
 
 
 AhChao Here 👋! 
