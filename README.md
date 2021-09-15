@@ -8,7 +8,7 @@ The efficiency on work means the flow smooth.
 The efficiency on game means make me clear or easy to check sth.
 
 And yes, like to make some interesting game too.:game_die:
-Welcome and hop you can find some spark from my projects.:sparkles:
+Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## :video_game: Some Game Projects Links:
 
