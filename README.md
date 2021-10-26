@@ -15,7 +15,7 @@ Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## Code / Library Practice
 - [MatterJSPractice](https://ahchao.github.io/MatterJSPractice/)
-- [Linq Basic]()
+- [Linq Basic in C#](https://github.com/AhChao/LinqPractice)
 
 ## :video_game: Some Game Projects Links:
 
