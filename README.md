@@ -27,6 +27,7 @@ Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## :pencil2: Some Tool Projects Links:
 
+- [NinjaExam (Exam System)](https://ahchao.github.io/NinjaExam/)
 - [World Flipper Skill Tuner](https://ahchao.github.io/WorldFlipperSkillTuner/)
 - [IG Follower](https://ahchao.github.io/IGFollower/)
 - [Thoths Book](https://ahchao.github.io/ThothsBook/)
