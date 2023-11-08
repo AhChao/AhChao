@@ -13,14 +13,14 @@ Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## Code / Library Practice
 
-- [Once LeetCode Per Day :new:](https://ahchao.github.io/OnceLeetCodePerDay/)
+- [Once LeetCode Per Day](https://ahchao.github.io/OnceLeetCodePerDay/):new:
 - [MatterJSPractice](https://ahchao.github.io/MatterJSPractice/)
 - [Linq Basic in C#](https://github.com/AhChao/LinqPractice)
 
 ## :video_game: Some Game Projects Links:
 
-- [Wan Wan Game :new:](https://ahchao.github.io/WanWanGame/)
-- [Mini Game Box :new:](https://ahchao.github.io/TinyGameCollection/)
+- [Wan Wan Game](https://ahchao.github.io/WanWanGame/):new:
+- [Mini Game Box](https://ahchao.github.io/TinyGameCollection/):new:
 - [Rainbow Puzzle](https://ahchao.github.io/RainbowPuzzle/)
 - [Royal Banquet](https://ahchao.github.io/RoyalBanquet/)
 - [Unlimited Ball Game](https://ahchao.github.io/UnlimitedBallGame/)
@@ -29,8 +29,8 @@ Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## :pencil2: Some Tool Projects Links:
 
-- [Time Switch :new:](https://ahchao.github.io/TimeSwitch/)
-- [Chromium Extension : replace lang words in URL :new:](https://github.com/AhChao/UrlLanguageModifier)
+- [Time Switch](https://ahchao.github.io/TimeSwitch/):new:
+- [Chromium Extension : replace lang words in URL](https://github.com/AhChao/UrlLanguageModifier):new:
 - [NinjaExam (Exam System)](https://ahchao.github.io/NinjaExam/)
 - [World Flipper Skill Tuner](https://ahchao.github.io/WorldFlipperSkillTuner/)
 - [IG Follower](https://ahchao.github.io/IGFollower/)
