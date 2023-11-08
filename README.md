@@ -41,4 +41,4 @@ Welcome and hope you can find some spark from my projects.:sparkles:
 
 ## :books: Collections:
 
-- [Steven's Board Game Dex :new:](https://ahchao.github.io/BoardGameDex/)
+- [Steven's Board Game Dex](https://ahchao.github.io/BoardGameDex/):new:
